@@ -1,0 +1,40 @@
+*{
+  font-family: Verdana;
+  margin:0;
+}
+
+#container{
+    width:100%;
+    max-width:1600px;
+    margin:0 auto;
+    background-color: turquoise;
+}
+nav{
+
+text-align: center;
+
+}
+#logo{
+
+text-align: center;
+
+}
+#menu ul{
+
+list-style: none;
+
+}
+#menu ul li{
+  display: inline;
+  text-transform: uppercase;
+}
+#menu ul li a {
+  text-decoration: none;  
+  display: inline-block;
+  padding: 50px;
+  color: white;
+}
+#titulo h1{
+        
+
+}
